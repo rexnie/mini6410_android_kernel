@@ -1,0 +1,10 @@
+#
+# ldd3 configuration
+#
+
+menu "ldd3"
+
+source "drivers/ldd3/scull/Kconfig"
+
+endmenu
+

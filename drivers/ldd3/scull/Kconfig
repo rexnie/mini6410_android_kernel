@@ -1,0 +1,9 @@
+#
+# Simple Character Utility for Loading Localities
+#
+
+config SCULL
+	bool "scull"
+    default n
+	---help---
+      from ldd3 chapter 3 
