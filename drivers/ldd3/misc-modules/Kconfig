@@ -1,0 +1,9 @@
+#
+# Simple Character Utility for Loading Localities
+#
+
+config MISC_MODULES 
+	bool "kernel misc modules"
+    default n
+	---help---
+      from ldd3

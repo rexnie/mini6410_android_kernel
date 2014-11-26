@@ -3,3 +3,5 @@
 #
 
 obj-y	 += scull/
+
+obj-y    += misc-modules/

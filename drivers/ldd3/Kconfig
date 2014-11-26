@@ -6,5 +6,7 @@ menu "ldd3"
 
 source "drivers/ldd3/scull/Kconfig"
 
+source "drivers/ldd3/misc-modules/Kconfig"
+
 endmenu
 
