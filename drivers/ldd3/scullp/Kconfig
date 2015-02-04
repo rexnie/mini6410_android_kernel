@@ -1,0 +1,9 @@
+#
+# Simple Character Utility for Loading Localities
+#
+
+config SCULLP
+	bool "scullp"
+    default n
+	---help---
+        use lookaside cache to implement SCULL 

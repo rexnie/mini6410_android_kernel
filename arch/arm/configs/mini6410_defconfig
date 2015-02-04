@@ -1,7 +1,7 @@
 #
 # Automatically generated make config: don't edit
 # Linux kernel version: 2.6.36
-# Sat Oct 25 15:08:16 2014
+# Wed Feb  4 08:13:21 2015
 #
 CONFIG_ARM=y
 CONFIG_SYS_SUPPORTS_APM_EMULATION=y
@@ -1856,8 +1856,10 @@ CONFIG_ANDROID_LOW_MEMORY_KILLER=y
 #
 # ldd3
 #
-CONFIG_SCULL=y
-CONFIG_MISC_MODULES=y
+# CONFIG_SCULL is not set
+# CONFIG_MISC_MODULES is not set
+CONFIG_SCULLC=y
+CONFIG_SCULLP=y
 
 #
 # File systems

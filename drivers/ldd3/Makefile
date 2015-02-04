@@ -5,3 +5,9 @@
 obj-y	 += scull/
 
 obj-y    += misc-modules/
+
+obj-y	 += scullc/
+
+obj-y	 += scullp/
+
+#obj-y	 += scullv/

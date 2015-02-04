@@ -8,5 +8,10 @@ source "drivers/ldd3/scull/Kconfig"
 
 source "drivers/ldd3/misc-modules/Kconfig"
 
+source "drivers/ldd3/scullc/Kconfig"
+
+source "drivers/ldd3/scullp/Kconfig"
+
+#source "drivers/ldd3/scullv/Kconfig"
 endmenu
 
